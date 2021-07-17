@@ -25,7 +25,7 @@ contract ExceptionExample{
        
         //REQUIRE IS FOR INPUT VALIDATION
         //ASSERT IS FOR CHECKING INTERNAL VARIABLE STATES (INVARIANTS)
-        //REVERT
+        //REVERT -
        
        
        
